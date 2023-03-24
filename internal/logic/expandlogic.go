@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/jarcn/shoutrpc/internal/svc"
-	transform "github.com/jarcn/shoutrpc/transform"
+	"github.com/jarcn/shoutrpc/transform"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )
